@@ -44,7 +44,7 @@ It includes **user authentication, user-specific todos, and theme support (dark/
 
 ```bash
 git clone https://github.com/iamowais123/TODO-APP-NEXT-JS.git
-cd todo-app
+cd TODO-APP-NEXT-JS
 ```
 
 ### 2️⃣ Install dependencies
