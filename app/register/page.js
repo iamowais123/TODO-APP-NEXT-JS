@@ -6,9 +6,9 @@ import Link from "next/link";
 
 export default function RegisterPage() {
   const router = useRouter();
-  const [name, setName] = useState("owais");
-  const [email, setEmail] = useState("owais@gmail.com");
-  const [password, setPassword] = useState("sderft");
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
 
   const handleRegister = async (e) => {
     e.preventDefault();
