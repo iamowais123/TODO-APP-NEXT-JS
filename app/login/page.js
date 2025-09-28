@@ -6,8 +6,8 @@ import Link from "next/link";
 
 export default function LoginPage() {
   const router = useRouter();
-  const [email, setEmail] = useState("procodrr@gmail.com");
-  const [password, setPassword] = useState("123456");
+  const [email, setEmail] = useState("owais@gmail.com");
+  const [password, setPassword] = useState("fdertg");
 
   const handleLogin = async (e) => {
     e.preventDefault();

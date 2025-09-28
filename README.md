@@ -106,6 +106,26 @@ todo-app/
 ---
 
 
+## 🚀 Deployment
+
+### 🔹 Vercel
+This project is deployed on **Vercel** for free hosting.  
+Vercel provides seamless integration with Next.js projects and supports **serverless functions, API routes, and edge caching** out of the box.
+
+👉 **Live Demo:** [Todo App on Vercel](https://todo-app-next-js-phi.vercel.app/)
+
+---
+
+### 🔹 LinkedIn
+I have also showcased this project on **LinkedIn** to connect with the developer community and get feedback.
+
+👉 **LinkedIn Post:** [View on LinkedIn](https://www.linkedin.com/in/mohammad-owais-975784301)
+
+
+---
+
+
+
 ## 📸 Screenshots
 
 ### ✅ Todo Page (Light Mode)
